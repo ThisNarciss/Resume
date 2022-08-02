@@ -134,6 +134,7 @@ body {
 
 /* education styles */
 .education {
+    margin-bottom: 10px;
     
 }
 .university {
@@ -175,7 +176,7 @@ body {
 }
 .soft-skills {
     margin-left: 40px;
-
+    
 }
 .sidebar-title {
     color: #FFFFFF;
@@ -230,4 +231,3 @@ body {
     font-size: 14px;
     line-height: 24px;
 }
-/
